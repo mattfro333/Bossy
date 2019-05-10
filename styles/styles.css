@@ -6,3 +6,12 @@ h1 {
   display: flex;
   justify-content: center;
 }
+
+.spacebetween {
+  display: flex;
+  justify-content: space-between;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
