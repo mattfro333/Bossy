@@ -5,6 +5,8 @@ body {
 h1 {
   display: flex;
   justify-content: center;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 
 .spacebetween {
