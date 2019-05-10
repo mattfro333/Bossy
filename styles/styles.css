@@ -3,6 +3,6 @@ body {
 }
 
 h1 {
-  flex: auto;
+  display: flex;
   justify-content: center;
 }
