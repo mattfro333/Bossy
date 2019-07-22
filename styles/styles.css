@@ -6,7 +6,8 @@ h1 {
   display: flex;
   justify-content: center;
   font-weight: bold;
-  font-family: sans-serif;
+  font-size:3em;
+  font-family: TimesNewRoman;
 }
 
 .spacebetween {
